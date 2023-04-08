@@ -1,0 +1,20 @@
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "08/04",
+      "animation_url": "https://ipfs.io/ipfs/QmXXPrH23JjFUXa6YWXdvneauSrFjS3wZou8o23sTmUD3c/",
+      "external_url": "https://iplogger.eth.link/",
+      "image": "ipfs://QmUUBJLhc3SrnXZdA3gdqXwEMr2htr9B2tzguL9M1w8Fyc/0.jpeg",
+      "name": "Prueba websockets 1"
+    },
+    {
+      "id": 1,
+      "description": "08/04",
+      "animation_url": "https://ipfs.io/ipfs/QmXXPrH23JjFUXa6YWXdvneauSrFjS3wZou8o23sTmUD3c/",
+      "external_url": "https://iplogger.eth.link/",
+      "image": "ipfs://QmUUBJLhc3SrnXZdA3gdqXwEMr2htr9B2tzguL9M1w8Fyc/0.jpeg",
+      "name": "Prueba websockets 1"
+    }
+  ]
+}
